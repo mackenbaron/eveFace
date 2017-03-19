@@ -1,4 +1,4 @@
-<center>![logo](https://github.com/whlook/eveFace/blob/master/images/logo.PNG)</center></br>
+          ![logo](https://github.com/whlook/eveFace/blob/master/images/logo.PNG)</br>
 # eveFace
 一个基于leetaface的人脸识别项目</br>
 ## 介绍:
