@@ -1,5 +1,5 @@
 ![logo](https://github.com/whlook/eveFace/blob/master/images/logo.PNG)</br>
-# eveFace -暂时未更新-
+# eveFace -相关文档及代码尚未完善-
 一个基于leetaface的人脸识别项目</br>
 ## 介绍:
 该项目使用了山世光老师的开源项目leetaface并进行了多线程设计，该库提供了特征提取和特征匹配的接口，</br>
